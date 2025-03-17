@@ -1,6 +1,6 @@
 # Store Frontend
 
-This is the **Ecommerce Store* for a full-stack e-commerce platform, built using modern web technologies. It provides a seamless shopping experience with product browsing, checkout, and order management.
+This is the *Ecommerce Store* for a full-stack e-commerce platform, built using modern web technologies. It provides a seamless shopping experience with product browsing, checkout, and order management.
 
 ## 🚀 Tech Stack
 
