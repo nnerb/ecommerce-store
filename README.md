@@ -48,7 +48,6 @@ This project can be deployed easily on **Vercel**. Ensure all environment variab
 
 ## 📸 Screenshots
 
-![Ecommerce Store Screenshot](./screenshot.png)
 ![image](https://github.com/user-attachments/assets/b681162a-c1ac-4913-b95d-b373e3fd8492)
 ![image](https://github.com/user-attachments/assets/70451c6c-1354-4d34-ba6a-8ea82de9c04b)
 ![image](https://github.com/user-attachments/assets/04541060-15a0-4b3a-8bd0-975e780f9c3a)
